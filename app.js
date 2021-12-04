@@ -1,17 +1,7 @@
 
 
 
-// if (JSON.stringify() === JSON.stringify()){
-//     console.log('they will run ')
-// } else {
-//     console.log('but')
-// }
 
-
-
-// function getItem(e){
-
-// }
 let myGame = document.querySelector('.row');
 let myColor = document.querySelector('.col');
 
